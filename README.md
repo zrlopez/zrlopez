@@ -25,6 +25,7 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
 - Cybersecurity Fundamentals
 - Genomics & Health Data Analysis
 - Technical Support Engineering
+- UI/UX Design & Prototyping (Figma)
 
 ---
 
@@ -59,6 +60,8 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="45" height="45"/>
+  <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
   <!-- Editor -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
   <!-- Platform -->
