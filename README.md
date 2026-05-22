@@ -1,4 +1,8 @@
-# Hi, I'm Zachary Ryan Lopez 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117,21262D&fontColor=58a6ff&text=Hi,%20I%27m%20Zachary%20%F0%9F%91%8B&height=130&fontSize=40&fontAlign=70&fontAlignY=45"/>
+</p>
+
+# Hi, I'm Zachary Ryan Lopez
 
 **AI/ML Data Operations & Technical Support Specialist** based in Houston, TX.
 
