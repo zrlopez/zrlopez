@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117,21262D&fontColor=58a6ff&text=Hi,%20I%27m%20Zachary%20%F0%9F%91%8B&height=130&fontSize=40&fontAlign=70&fontAlignY=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a,f59e0b&fontColor=ffffff&text=Hi,%20I%27m%20Zachary%20%F0%9F%91%8B&height=130&fontSize=40&fontAlign=50&fontAlignY=55"/>
 </p>
 
-# Hi, I'm Zachary Ryan Lopez
+## 📝 Bio
 
-**AI/ML Data Operations & Technical Support Specialist** based in Houston, TX.
+**AI/ML Data Operations & Technical Support Specialist** based in Austin, TX.
 
 I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, and **Technical Support Engineering**. With 8+ years at Apple across retail, AppleCare, Business Development, and Data Operations/Annotation QA — I bridge the gap between technical systems and the humans who use them.
 
