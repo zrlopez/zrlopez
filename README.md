@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=060d1f,2563eb,9333ea&fontColor=ffffff&text=Hi,%20I%27m%20Zachary%20%F0%9F%91%8B&height=130&fontSize=40&fontAlign=50&fontAlignY=55&fontFamily=Verdana"/>
+  <img src="https://raw.githubusercontent.com/zrlopez/zrlopez/main/zrl-banner-github.png" alt="Zachary Ryan Lopez – GitHub Banner" width="100%"/>
 </p>
 
 ## 📝 Bio
@@ -25,7 +25,7 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
 - Cybersecurity Fundamentals
 - Genomics & Health Data Analysis
 - Technical Support Engineering
-- UI/UX Design & Prototyping (Figma)
+- UI/UX Design & Prototyping
 
 ---
 
