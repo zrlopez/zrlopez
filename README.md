@@ -1,22 +1,69 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=060d1f,2563eb,9333ea&fontColor=ffffff&text=Hi,%20I%27m%20Zachary%20%F0%9F%91%8B&height=130&fontSize=40&fontAlign=50&fontAlignY=55&fontFamily=Verdana"/>
+</p>
 
-<!--
-**zrlopez/zrlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 Bio
 
-Here are some ideas to get you started:
+**AI/ML Data Operations & Technical Support Specialist** based in Austin, TX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, and **Technical Support Engineering**. With 8+ years at Apple across retail, AppleCare, Business Development, and Data Operations/Annotation QA — I bridge the gap between technical systems and the humans who use them.
+
+---
+
+## 🎓 Education
+
+- **Concordia University Texas** — Double Major in Political Science & Psychology
+- **University of Texas at Austin** — Minor in Military Science, Army ROTC
+
+---
+
+## 🧠 Fields of Interest
+
+- AI/ML Data Operations & NLP Annotation QA
+- Data Analytics & Visualization
+- Prompt Engineering & Generative AI
+- Cybersecurity Fundamentals
+- Genomics & Health Data Analysis
+- Technical Support Engineering
+- UI/UX Design & Prototyping (Figma)
+
+---
+
+## 📜 Certifications
+
+- **Harvard:** Programming with Python
+- **Google:** Introduction to Generative AI
+- **Kaggle:** Intermediate Machine Learning, Pandas, Advanced SQL
+- **HubSpot:** SEO II, Service Hub
+- **FreeAcademy.ai:** Python, Prompt Engineering
+- **ISC2:** Certified in Cybersecurity (CC) — *in progress*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
+  <!-- Data & ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Colab" width="45" height="45"/>
+  <!-- DevOps / Infra -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="45" height="45"/>
+  <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
+  <!-- Editor -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <!-- Platform -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple Platforms" width="45" height="45"/>
 </p>
