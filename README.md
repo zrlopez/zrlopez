@@ -2,12 +2,6 @@
   <img src="https://raw.githubusercontent.com/zrlopez/zrlopez/main/zrl-banner-github.png" alt="Zachary Ryan Lopez – GitHub Banner" width="100%"/>
 </p>
 
----
-
-<p align="center">
-  <img src="./dino.gif" alt="dino" />
-</p>
-
 ## 📝 Bio
 
 **AI/ML Data Operations & Technical Support Specialist** based in Austin, TX.
