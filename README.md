@@ -2,6 +2,12 @@
   <img src="https://raw.githubusercontent.com/zrlopez/zrlopez/main/zrl-banner-github.png" alt="Zachary Ryan Lopez – GitHub Banner" width="100%"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="./dino.gif" alt="dino" />
+</p>
+
 ## 📝 Bio
 
 **AI/ML Data Operations & Technical Support Specialist** based in Austin, TX.
@@ -66,4 +72,10 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
   <!-- Platform -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple Platforms" width="45" height="45"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./dino.gif" alt="dino" />
 </p>
