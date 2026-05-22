@@ -66,5 +66,5 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
 ## 📫 Connect
 
 - 🌐 [zrl.dev](https://zrl.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zacharylopez)
+- 💼 [LinkedIn](https://www.linkedin.com/in/zrlopez)
 - 📧 Available via the contact form at [zrl.dev](https://zrl.dev)
