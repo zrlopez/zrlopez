@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a,f59e0b&fontColor=ffffff&text=Hi,%20I%27m%20Zachary%20%F0%9F%91%8B&height=130&fontSize=40&fontAlign=50&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,06b6d4&fontColor=ffffff&text=Hi,%20I%27m%20Zachary%20%F0%9F%91%8B&height=130&fontSize=40&fontAlign=50&fontAlignY=55&fontFamily=Raleway"/>
 </p>
 
 ## 📝 Bio
