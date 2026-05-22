@@ -25,7 +25,7 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
 - Cybersecurity Fundamentals
 - Genomics & Health Data Analysis
 - Technical Support Engineering
-- UI/UX Design & Prototyping (Figma)
+- UI/UX Design & Prototyping
 
 ---
 
