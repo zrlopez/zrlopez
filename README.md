@@ -10,7 +10,6 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
 
 - **Concordia University Texas** — Double Major in Political Science & Psychology
 - **University of Texas at Austin** — Minor in Military Science, Army ROTC
-- 32+ credit hours completed toward bachelor's degree
 
 ---
 
@@ -27,11 +26,12 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
 
 ## 📜 Certifications
 
-- ISC2 Certified in Cybersecurity (CC) — *in progress*
-- Google: Introduction to Generative AI
-- HubSpot: SEO, SEO II, Service Hub
-- Simplilearn: SQL Basics
-- FreeAcademy.ai: Python, Prompt Engineering
+- **Harvard:** Programming with Python
+- **Google:** Introduction to Generative AI
+- **Kaggle:** Intermediate Machine Learning, Pandas, Advanced SQL
+- **HubSpot:** SEO II, Service Hub
+- **FreeAcademy.ai:** Python, Prompt Engineering
+- **ISC2:** Certified in Cybersecurity (CC) — *in progress*
 
 ---
 
