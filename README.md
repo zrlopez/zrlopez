@@ -67,4 +67,4 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
   <img src="./dino.gif" alt="dino" />
 </p>
 
-<p align="center">MADE WITH ❤️ IN TEXAS</p>
+<p align="center">made with 🤍 in atx</p>
