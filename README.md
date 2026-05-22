@@ -60,11 +60,3 @@ I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, an
   <!-- Platform -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple Platforms" width="45" height="45"/>
 </p>
-
----
-
-## 📫 Connect
-
-- 🌐 [zrl.dev](https://zrl.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zrlopez)
-- 📧 Available via the contact form at [zrl.dev](https://zrl.dev)
