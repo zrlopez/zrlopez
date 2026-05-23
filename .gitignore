@@ -1,0 +1,11 @@
+# macOS Finder metadata — never commit
+.DS_Store
+**/.DS_Store
+._*
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
