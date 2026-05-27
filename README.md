@@ -4,7 +4,7 @@
 
 ## 📝 Bio
 
-**AI/ML Data Operations & Technical Support Specialist** based in Houston, TX.
+**AI/ML Data Operations & Technical Support Specialist** based in Austin, TX.
 
 I'm actively seeking roles in **Data Operations**, **ML/AI Data Specialist**, and **Technical Support Engineering**. With 8+ years at Apple across retail, AppleCare, Business Development, and Data Operations/Annotation QA — I bridge the gap between technical systems and the humans who use them.
 
